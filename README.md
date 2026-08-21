@@ -1,8 +1,3 @@
-# ⚠️ BEFORE YOU EVEN START ⚠️
-## DO NOT GO ON UNLESS YOU ARE A PROFESSIONAL AND YOU KNOW WHAT YOU ARE DOING!
-
----
-
 # Animatronic Figure Build
 
 ## Overview
@@ -77,40 +72,6 @@ For associated footprint assignments and 3D models to link correctly when updati
 ---
 ## 📄 License & Attribution
 Refer to the root [LICENSE](../../LICENSE) file for usage and distribution guidelines.
-
----
-
-# INMP441ACEZ-R7 KiCad Library
-This package contains the official schematic symbol and PCB footprint library files for the **INMP441ACEZ-R7** digital MEMS microphone for KiCad 6 and newer.
----
-## ⚠️ Important Download & Unzip Instructions
-1. **Download:** Save the official `*.zip` archive.
-2. **Extract:** Unzip the folder **as-is**. Do **NOT** rename the extracted folder.
-3. **Structure:** Keep the internal file structure completely intact (including `.pretty`, `.kicad_mod`, and `.kicad_sym` files/folders).
-> **Note:** Renaming the root extracted folder or altering internal directory paths will break absolute references and lead to footprint import errors in KiCad.
----
-## 🛠️ KiCad Import Guide (V6 and Later)
-### 1. Import Symbol (`.kicad_sym`)
-1. Extract the contents of your downloaded `*.zip` file.
-2. Launch KiCad and navigate to **Preferences** > **Manage Symbol Libraries...**
-3. Select the **Global Libraries** tab (or **Project Specific Libraries** depending on your workflow).
-4. Click **Browse Libraries** (the small folder icon at the bottom of the table).
-5. Select the `*.kicad_sym` file from your extracted directory and click **Open**.
-6. Verify the library appears in the table list, then click **OK**.
-7. To verify, open the **Symbol Editor**, search for `INMP441ACEZ-R7` in the filter field, and double-click to view the component.
----
-### 2. Import Footprint (`.pretty`)
-1. Go to **Preferences** > **Manage Footprint Libraries...**
-2. Select the **Global Libraries** tab.
-3. Click **Browse Libraries** (the folder icon at the bottom).
-4. Browse to and select the `.pretty` folder inside the extracted directory, then click **Open**.
-5. Click **OK** to save and apply settings.
----
-## 🔍 Verification Checklist
-- [ ] Extracted folder name was **not** altered.
-- [ ] Symbol displays correctly in the **Symbol Editor**.
-- [ ] Footprint appears under library filter in **Footprint Editor**.
-- [ ] Pin-out numbers on the schematic symbol match the physical pads on the footprint.
 
 ---
 
