@@ -46,7 +46,7 @@ included), then verify in the Symbol/Footprint Editor before use.
 
 | Library | Covers | KiCad Version |
 | :--- | :--- | :--- |
-| Raspberry Pi Compute Module | CM4, CM5 (symbols only) | KiCad 9 | https://github.com/Supercookiegaming/Raspberry-Pi-Compute-Module-KiCad
+| Raspberry Pi Compute Module | CM4, CM5 (symbols only) | KiCad 9 | https://github.com/Supercookiegaming/Raspberry-Pi-Compute-Module-KiCad |
 | INMP441ACEZ-R7 | Digital MEMS microphone (symbol + footprint) | KiCad 6+ |
 
 ---
