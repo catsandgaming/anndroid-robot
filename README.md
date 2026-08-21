@@ -1,5 +1,8 @@
 # Animatronic Figure Build (AnnDroid)
 
+# BEFORE YOU EVEN START DO NOT GO ON UNLESS YOU ARE A PROFESSIONAL AND YOU KNOW WHAT YOU ARE DOING!
+
+
 ## Overview
 Full-scale animatronic figure project — a 3D-printed shell over an internal
 aluminum skeleton, with servo-driven arms, neck, jaw, and eyes, TTS-based
