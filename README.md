@@ -102,9 +102,8 @@ Official schematic symbol and PCB footprint library files for the
 **INMP441ACEZ-R7** digital MEMS microphone, for KiCad 6 and newer.
 
 ### ⚠️ Important Download & Unzip Instructions
-1. **Download:** Save the official `*.zip` archive.
-2. **Extract:** Unzip the folder **as-is**. Do **NOT** rename the extracted folder.
-3. **Structure:** Keep the internal file structure completely intact (including `.pretty`, `.kicad_mod`, and `.kicad_sym` files/folders).
+Do **NOT** rename the extracted folder.
+**Structure:** Keep the internal file structure completely intact (including `.pretty`, `.kicad_mod`, and `.kicad_sym` files/folders).
 > **Note:** Renaming the root extracted folder or altering internal directory paths will break absolute references and lead to footprint import errors in KiCad.
 
 ### 🛠️ KiCad Import Guide (V6 and Later)
