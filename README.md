@@ -98,6 +98,8 @@ Refer to the root [LICENSE](../../LICENSE) file for usage and distribution guide
 
 ## 2. INMP441ACEZ-R7 Microphone Library
 
+It is easy, the raw files are unzipped in equipment but to make it easier i have provided both, we reccomend using the zip https://github.com/catsandgaming/anndroid-robot/blob/main/Equipment/INMP441ACEZ-R7.zip
+_
 Official schematic symbol and PCB footprint library files for the
 **INMP441ACEZ-R7** digital MEMS microphone, for KiCad 6 and newer.
 
