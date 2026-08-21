@@ -54,7 +54,7 @@ included), then verify in the Symbol/Footprint Editor before use.
 ## 1. Raspberry Pi Compute Module Library
 
 Schematic symbol libraries (`.kicad_sym`) for the Raspberry Pi Compute
-Module series (CM4 and CM5), for KiCad 9.
+Module series (CM4 and CM5), for KiCad 9. https://github.com/Supercookiegaming/Raspberry-Pi-Compute-Module-KiCad
 
 ### 📦 Contents
 | File Name | Description |
